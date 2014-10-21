@@ -1,0 +1,3 @@
+How can you use the staging are to make sure you have one commit per logical change?
+
+It will aloow you to see all that changes that are about to be commitied. This will allow you to make sure that everything is realted to the same item. 
