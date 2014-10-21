@@ -1,3 +1,11 @@
 How can you use the staging are to make sure you have one commit per logical change?
 
 It will aloow you to see all that changes that are about to be commitied. This will allow you to make sure that everything is realted to the same item. 
+
+What are some situations when branches would be helpful in keeping you history organized? How would branches help?
+
+When you have something working to a certian degree it would then be helpful to branch that way you have a state that you can go back to. If you get a new idea on how to redo something it would make sense to branch and test. 
+
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help by keeping track of what branch you are working and keep track of where other people are. Allows oyu to see what is going to be merged. 
