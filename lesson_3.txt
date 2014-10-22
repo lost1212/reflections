@@ -1,0 +1,3 @@
+When would you want to use a remote repository ranther than keeping all your work local?
+
+This will allow for backups as well as allowing others to work on the system. Lastly it will allow a central place to have the changes. 
