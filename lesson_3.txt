@@ -9,3 +9,7 @@ This way any discrepencies will be managed. Files won't be changed without knowl
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are better versions of clones that are on the GitHub. Should be used when modifing someone elses code for personal use. Clones are copies and be used to migrate or to fork a project. Branches splits from the master. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This will allow you to do a clean merge and see what changes have been made on the remote without yet merging. 
